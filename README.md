@@ -1,4 +1,6 @@
 
+Some scripts for managing the BeLL Demo Box.
+
 # Installation
 ```
 git clone https://github.com/open-learning-exchange/BeLL-Demo.git;
