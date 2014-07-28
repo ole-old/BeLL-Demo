@@ -1,0 +1,27 @@
+{
+  "name": "BeLL-Demo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~3.4.8",
+    "commander": "2.1.0",
+    "underscore": "1.6.0",
+    "moment": "~2.5.1",
+    "request": "~2.34.0",
+    "nano": "5.7.1",
+    "request-json": "~0.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/open-learning-exchange/BeLL-Demo.git"
+  },
+  "author": "rj@rjsteinert.com",
+  "license": "AGPL-3",
+  "gitHead": "20378dfb97e621841450ae25af78c2d4857a6585"
+}
